@@ -4,7 +4,7 @@ import { useWindowScroll } from "react-use";
 import { useEffect, useRef, useState } from "react";
 import { TiLocationArrow } from "react-icons/ti";
 
-import Button from "./button";
+import Button from "./Button";
 
 const navItems = ["Music", "Yeezy", "art", "About", "Contact"];
 
